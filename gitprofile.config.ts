@@ -33,11 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Taenia solium',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/miguelperezfafsa-cell/miguelperezfafsa-cell.github.io/blob/8ac1e904cb0dd3ee9f423ddffcbf492b05ab7fc1/tsoliumss.png',
           link: 'https://docs.google.com/presentation/d/1zrzocibRrhSpOYouThiDE3MROTVdFvpoPFLPllEhRQQ/edit?slide=id.p#slide=id.p',
         },
         {
